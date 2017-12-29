@@ -9,7 +9,7 @@ TMUXCONFIG=${BACKED_UP_HOME}config/tmux
 
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
-${TMUXCONFIG}create.sym.link.for.tmux.sh
+${TMUXCONFIG}/create.sym.link.for.tmux.sh
 
 # and then: 
 # Installing plugins
